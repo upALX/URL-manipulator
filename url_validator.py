@@ -1,16 +1,15 @@
 import re
 
-address = 'Avenidade Elmira Pereira Silveira, 42, Jardim Algarve, Alvorada, 94859-000'
 
-cep_pattern = re.compile('[0-9]{5}[-]{1}?[0-9]{2}')
-search_cep_in_address = cep_pattern.search(address)
+# cep_pattern = re.compile('[0-9]{5}[-]{1}?[0-9]{2}')
+# search_cep_in_address = cep_pattern.search(address)
 
-if search_cep_in_address:
-    cep = search_cep_in_address.group()
+# if search_cep_in_address:
+#     cep = search_cep_in_address.group()
 
-    print(cep)
-else:
-    raise(AttributeError('O endereço não tem CEP!'))
+#     print(cep)
+# else:
+#     raise(AttributeError('O endereço não tem CEP!'))
 
 url = 'http://www.bytebank.com.br/cambio'
 
