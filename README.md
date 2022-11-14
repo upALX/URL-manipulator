@@ -17,28 +17,16 @@ A simple app to manipulate values of URL developed with Python.
 Clone this repo:
 
 ```
-git clone https://github.com/upALX/Simple-API.git
-```
-**Install the "Tech Stack"** (If you have all the "Tech Stack" installed, ignore this precess):
-```
-pip install Flask
-```
-**Run the app**
+git clone git@github.com:upALX/URL-manipulator.git
 ```
 
-export FLASK_ENV=development - This activate the auto-restart server
- 
-+
-
-flask run - This run the app
-```
+- In **'url extractor'** file call the functions 
 
 ### Make your mark :triangular_flag_on_post:
 
-
-**If you have any problems with this app or have an idea that contributes, open a [issue](https://github.com/upALX/Pyguessing/issues), [pull request](https://github.com/upALX/Pyguessing/pulls) or find me on [Linkedin](https://www.linkedin.com/in/upalx/):D**
+**If you have any problems with this app or have an idea that contributes, open a [issue](https://github.com/upALX/URL-manipulator/issues), [pull request](https://github.com/upALX/URL-manipulator/pulls) or find me on [Linkedin](https://www.linkedin.com/in/upalx/):D**
 
 ### License :unlock:
 This project is under the [MIT license](https://github.com/upALX/Simple-API/blob/1bd0e539a673e684ebe9977cd72c709acbd65aa3/LICENSE).
 
-*Developed with :purple_heart: by Alexandre*
+*Developed with :purple_heart: by ME*
