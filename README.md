@@ -23,6 +23,7 @@ git clone git@github.com:upALX/URL-manipulator.git
 
 - In **'url extractor'** file call the functions 
 
+
 ### Make your mark :triangular_flag_on_post:
 
 **If you have any problems with this app or have an idea that contributes, open a [issue](https://github.com/upALX/URL-manipulator/issues), [pull request](https://github.com/upALX/URL-manipulator/pulls) or find me on [Linkedin](https://www.linkedin.com/in/upalx/):D**
