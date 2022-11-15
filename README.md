@@ -6,6 +6,7 @@ A simple app to manipulate values of URL developed with Python.
 - Get value from URL params by key name
 - Get all params from URL by method
 - Convert currency by method 
+- 
 
 ## Tech stack used
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
