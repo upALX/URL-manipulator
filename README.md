@@ -14,13 +14,11 @@ A simple app to manipulate values of URL developed with Python.
 A simple app to manipulate values of URL developed with Python.
 
 ### How to use :open_mouth:
-Clone this repo:
+Clone this repo and make it happen:
 
 ```
-git clone git@github.com:upALX/URL-manipulator.git
+git clone git@github.com:upALX/my-links.git
 ```
-
-- In **'url extractor'** file call the functions 
 
 ### Make your mark :triangular_flag_on_post:
 
